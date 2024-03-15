@@ -26,11 +26,11 @@ With over 7+ years of Machine Learning and Software Engineering experience, I am
 
 
 ## 🚀 GitHub Stats
-<a href="https://github.com/VanekPetr/VanekPetr">
+<a href="https://github.com/ganeshpras/ganeshpras">
   <img align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api/top-langs/?username=VanekPetr&hide=css,c,dockerfile,c%2B%2B&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=02D892" />
 </a>
 
-<a href="https://github.com/ganeshpras/ganesh">
+<a href="https://github.com/ganeshpras/ganeshpras">
   <img align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api?username=ganeshpras&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=02D892" alt="Ganesh's GitHub Stats" />
 </a>
 
