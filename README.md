@@ -1,11 +1,10 @@
 [![Header](https://raw.githubusercontent.com/VanekPetr/VanekPetr/main/readme_header.png "Header")](https://linkedin.com/in/vanekpetr42/)
 
-# Hey, Robots! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-Currently, I'm working as a Machine Learning Engineer @ Go Autonomous in Copenhagen where I deep dive into topics of NLP, Computer Vision and MLOps. 
+I'm Ganesh Prasad Shivakumar, an experienced leader who is passionate about building high impact teams and systems that enhance user experience and/or user value. My areas of interest include Recommendation Systems, Personalization, Marketing Technology, Growth, Online Advertising, LLMs, and Generative AI.
 
-In a free time, I am helping as a teaching assistant at DTU and KU, co-supervising master and bachelor theses within OR, ML and asset allocation as well as applying this knowledge to create an open-source algorithm-based investment advisor.
-
+With over 7+ years of Machine Learning and Software Engineering experience, I am a passionate and innovative research engineer who specializes in deep learning, computer vision, and generative AI. My mission is to leverage AI for social good and to create positive impact in the world. I worked at Amazon and AmazonRobotics, where I focus on integrity for Data Gathering, Data Lakes, Data Partitioning, Generative AI, semantic segmentation, MultiModal Transformers, LLMs.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -31,8 +30,8 @@ In a free time, I am helping as a teaching assistant at DTU and KU, co-supervisi
   <img align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api/top-langs/?username=VanekPetr&hide=css,c,dockerfile,c%2B%2B&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=02D892" />
 </a>
 
-<a href="https://github.com/VanekPetr/VanekPetr">
-  <img align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api?username=VanekPetr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=02D892" alt="Petr's GitHub Stats" />
+<a href="https://github.com/ganeshpras/ganesh">
+  <img align="center" src="https://vanek-petr-github-readme-stats.vercel.app/api?username=ganeshpras&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_color=02D892" alt="Ganesh's GitHub Stats" />
 </a>
 
 
